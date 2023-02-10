@@ -1,2 +1,6 @@
 # JavaScript-DesignPatterns
-Learning typical solutions to commonly recurring problems! 🤓
+
+
+## Singleton 
+classes which can be instantiated once, and can be accessed globally.
+

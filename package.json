@@ -1,0 +1,21 @@
+{
+  "name": "javascript-designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiancastroobando/JavaScript-DesignPatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastiancastroobando/JavaScript-DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/sebastiancastroobando/JavaScript-DesignPatterns#readme"
+}
