@@ -1,5 +1,5 @@
 let instance;
-let count = 0;
+let counter = 0;
 
 class Counter {
     constructor() {

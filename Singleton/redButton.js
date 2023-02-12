@@ -1,3 +1,3 @@
-import counter from 'counter.js';
+import singletonCounter from './counter.js';
 
-console.log(counter.getCount());
+console.log(singletonCounter.getCount());
