@@ -25,7 +25,6 @@ class Counter {
         return --counter;
     }
 }
-
 // Object.freeze methode : consuming code cannot modify the instance
 const singletonCounter = Object.freeze(new Counter());
 export default singletonCounter;
